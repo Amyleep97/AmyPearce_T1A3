@@ -16,9 +16,12 @@ https://github.com/Amyleep97/AmyPearce_T1A3.git
 
 # Develop a list of features that will be included in the application. It must include:
 # must be 3 features
-1.
-2.
-3.
+
+1. This Trivia has 10 questions each question will be a challenge but becomes harder as the questions go on. The purpopse is to not only get the player thinking but to get them to also learn something about videos games that they may have not known before the trivia.
+
+2.You can have as many guesses as you like to see what the correct answer is, I thought this idea would be fun! It'll give the trivia a little bit of personality by saying things like "Almost! keep trying" Making it seem smarter than the actual player
+    
+1. At the very end you will be able to see your all round score of how many questions you got correct. The main reason a trivia is played is to see how much knowledge the person has on the theme. 
 
 - describe each feature, providing a walkthrough of the logic of the application.
 
