@@ -18,7 +18,7 @@ https://github.com/Amyleep97/AmyPearce_T1A3.git
 
 1. This Trivia has 10 questions each question will be a challenge but becomes harder as the questions go on. The purpopse is to not only get the player thinking but to get them to also learn something about video games that they may have not known before the trivia.
 
-2. You can have as many guesses as you like it will return a message, I thought this idea would be fun! It'll give the trivia a little bit of personality by saying things like "Almost! keep trying" Making it seem smarter than the actual player
+2. You can have one shot to guesses if it correct or incorrect, one you answer the question it will return a message, I thought this idea would be fun! It'll give the trivia a little bit of personality by saying things like "Almost! keep trying" Making it seem smarter than the actual player
     
 3. At the very end you will be able to see your all round score of how many questions you got correct. The main reason a trivia is played is to see how much knowledge the person has on the main them. 
 
