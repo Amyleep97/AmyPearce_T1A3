@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T06:05:00.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="P8SrX5QeXD7EHf5To9xt" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T09:41:16.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yGwf9Opwx2yCN7tigyrI" version="24.6.4" type="github">
   <diagram name="Page-1" id="TDPUj_1zRNiJJpnWiJ5l">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,8 +99,14 @@
         <mxCell id="DVa73hEYFQp1gnujyWLR-64" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; print = &quot;Correct! &quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; score += 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="645" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DVa73hEYFQp1gnujyWLR-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336.25" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="DVa73hEYFQp1gnujyWLR-67" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="710" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DVa73hEYFQp1gnujyWLR-68" value="&lt;div&gt;else:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; print(&quot;Incorrect, sorry gamer :(&quot;)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346.25" y="725" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DVa73hEYFQp1gnujyWLR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.564;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DVa73hEYFQp1gnujyWLR-56" target="DVa73hEYFQp1gnujyWLR-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
