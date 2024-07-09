@@ -68,8 +68,11 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 ![download zip file from github](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/21f83559-fabe-46c5-b09d-1597d4751bfe)
 
-7. Once saved you should Unzip the file so you can open the file through the terminal, you will be able to do so by ```cd ``` into the ```src``` file.
+7. Once saved you should Unzip the file, do this by extracting all. 
 
+8. Open the file and click on main.py this will open up python terminal to start the application. 
+
+![main py step](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/577dc2f4-0e58-4fe2-8d25-f52c36c62f9e)
 
 
 # Intro to this application/Rules to play:
@@ -90,7 +93,11 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 ## Features:
 
-- 
+- ``` question = input``` This function will ask the player a question.
+
+- ``` if question == "1996": print("Correct! You're a wizard") score += 1 ``` This function gives the game a scoring system for each question if it is correct this will add 1 point.
+
+- ``` else: print("Incorrect, sorry gamer :( The answer is 1996") ``` This function makes sure that if the answer is incorrect it does not tally a score and will tell you what the correct answer is. 
 
 
 # Note: Ensure that your features above allow you to demonstrate your understanding of the following language elements and concepts:
