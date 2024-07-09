@@ -70,9 +70,10 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 7. Once saved you should Unzip the file, do this by extracting all. 
 
-8. Open the file and click on main.py this will open up python terminal to start the application. 
 
 ![main py step](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/577dc2f4-0e58-4fe2-8d25-f52c36c62f9e)
+
+8. Open the file and click on main.py this will open up the terminal to start the application. 
 
 
 # Intro to this application/Rules to play:
@@ -99,8 +100,13 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 - ``` else: print("Incorrect, sorry gamer :( The answer is 1996") ``` This function makes sure that if the answer is incorrect it does not tally a score and will tell you what the correct answer is. 
 
+# Packets
 
-# Note: Ensure that your features above allow you to demonstrate your understanding of the following language elements and concepts:
+- Pandas
+
+
+
+# Note:
 
 - use of variables and the concept of variable scope
 
@@ -109,29 +115,6 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 - error handling
 
 
-Consult with your educator to check your features are sufficient .
+# Implementation plan:
 
-
-# Develop an implementation plan which:
-- outlines how each feature will be implemented and a checklist of tasks for each feature
-- prioritise the implementation of different features, or checklist items within a feature
-- provide a deadline, duration or other time indicator for each feature or checklist/checklist-item
-
-- Utilise a suitable project management platform to track this implementation plan.
-
-- Provide screenshots/images and/or a reference to an accessible project management platform used to track this implementation plan. 
-
-- checklists for each feature should have at least 5 items.
-
-
-
-# Design help documentation which includes a set of instructions which accurately describe how to use and install the application.
-
-
-
-
-
-
-- any dependencies required by the application to operate
-- any system/hardware requirements
-- how to use any command line arguments made for the application
+![Trello final peice](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/95d129d7-c8e2-4ae0-9eb1-bdb83acdbd8b)
