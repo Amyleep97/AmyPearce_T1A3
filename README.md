@@ -1,17 +1,25 @@
-# AmyPearce_T1A3
+# Video Game Trivia 
+
+# How to run application 
+
+### 1.  [Link to Install Python 3.10.12](https://www.python.org/downloads/)
+- Requirements:
+Windows 7/10,
+Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CPU, 4 GB RAM, 5 GB free disk space. 
+([Source](https://support.enthought.com/hc/en-us/articles/204273874-Enthought-Python-Minimum-Hardware-Requirements))
 
 
-# Full attribution to referenced sources (where applicable).
+# 
 
 
-# Provide a link to your source control repository
+### [Source control repository](https://github.com/Amyleep97?tab=repositories)
 
-https://github.com/Amyleep97/AmyPearce_T1A3.git
+### [Code style guide]()
 
 
-# Identify any code style guide or styling conventions that the application will adhere to.
 
-- Reference the chosen style guide appropriately.
+
+
 
 
 # List of features that are included in the application:
@@ -53,7 +61,17 @@ Consult with your educator to check your features are sufficient .
 # Design help documentation which includes a set of instructions which accurately describe how to use and install the application.
 
 You must include:
-- steps to install the application
+- steps to install the application:
+
+
+1. Open the command prompt 
+2. use:  ``` sudo apt-get update ``` to check sudo apt then use: ``` sudo apt-get update; sudo apt-get upgrade ``` to update/upgrade sudo apt 
+3. use: ``` 
+. Install Python 3.12
+. Launch Python 3.12 afterit has been downloaded
+. 
+
+
 - any dependencies required by the application to operate
 - any system/hardware requirements
 - how to use any command line arguments made for the application
