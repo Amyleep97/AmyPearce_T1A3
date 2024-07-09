@@ -44,7 +44,7 @@ if question == "Minecraft":
     print("Correct! You're Insane! You're halfway!")
     score += 1
 else:
-    print(" Incorrect, that was hard hey :( The answer is Minecraft" )
+    print(" Incorrect, that was hard hey :( The answer is Minecraft. You're halfway!" )
 
 
 question = input("Question 6: Steam has a chart of games that are most played, out of the top current 100 which one is number 1?")

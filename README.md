@@ -1,15 +1,33 @@
 # Video Game Trivia 
 
-# How to run application 
+# Requirements to use this application 
 
-### 1.  [Link to Install Python 3.10.12](https://www.python.org/downloads/)
+### 1.  [Link to Install Python 3.12.4](https://www.python.org/downloads/)
+
+- Once on this page click on Download Python 3.12.4
+
+![python install step 1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/491bce61-d6a3-45b4-b174-b575685614d9)
+
 - Requirements:
 Windows 7/10,
 Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CPU, 4 GB RAM, 5 GB free disk space. 
 ([Source](https://support.enthought.com/hc/en-us/articles/204273874-Enthought-Python-Minimum-Hardware-Requirements))
 
+2. Open the download and Install Python.
 
-# 
+![Python instaqllation steps](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/51ba37c0-712c-4d17-a0da-5ed8dbb2b14e)
+
+3. Install wsl/linux if you don't have it installed already. Open up Powershell/CMD and copy and paste the following.
+
+``` wsl --install ```
+
+- If you're unsure of which version you are running you might need to run:
+
+``` wsl -l -v ``` 
+
+![install wsl step](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/1ae75787-c8d5-43a0-86aa-ba20a39ce385)
+
+### [A link to help you set up wsl/linux for windows](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 
 ### [Source control repository](https://github.com/Amyleep97?tab=repositories)
@@ -17,20 +35,25 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 ### [Code style guide]()
 
 
+# Intro to this application/Rules to play:
 
+-  You will first be introduced to the game by being welcomed with the sentence " Hello! Welcome to Video Game Trivia!" It will then ask you "Are you ready to begin? Type 'yes' to start " You must type ``` "yes" ```for the questions to begin.
 
+- There are 10 Questions to be answered each one is different.
 
+- You must press the enter key after every answer in order to get a result. Always use Capitals at the start of each answer. (example: ``` counterstrike ```will error ```Counterstrike```will work.)
 
+- The appplication will then give you a message depending on if your answer is correct or incorrect. 
 
-# List of features that are included in the application:
+- The game will tell you what the answer is if you didn't get it right. 
 
-1. This Trivia has 10 questions each question will be a challenge but becomes harder as the questions go on. The purpopse is to not only get the player thinking but to get them to also learn something about video games that they may have not known before the trivia.
+- At the half way mark the application sends a message saying "You're halfway!" to show your progress.
 
-2. You can have one shot to guesses if it correct or incorrect, one you answer the question it will return a message, I thought this idea would be fun! It'll give the trivia a little bit of personality by saying things like "Almost! keep trying" Making it seem smarter than the actual player
-    
-3. At the very end you will be able to see your all round score of how many questions you got correct. The main reason a trivia is played is to see how much knowledge the person has on the main them. 
+- After answering all 10 Questions you will see your score it will tell you how many you got Correct.
 
-- describe each feature, providing a walkthrough of the logic of the application.
+## Features:
+
+- 
 
 
 # Note: Ensure that your features above allow you to demonstrate your understanding of the following language elements and concepts:
@@ -60,15 +83,8 @@ Consult with your educator to check your features are sufficient .
 
 # Design help documentation which includes a set of instructions which accurately describe how to use and install the application.
 
-You must include:
-- steps to install the application:
-
-
-1. Open the command prompt 
-2. use:  ``` sudo apt-get update ``` to check sudo apt then use: ``` sudo apt-get update; sudo apt-get upgrade ``` to update/upgrade sudo apt 
-3. use: ``` 
-. Install Python 3.12
-. Launch Python 3.12 afterit has been downloaded
+# Installation
+ 1. 
 . 
 
 
