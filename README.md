@@ -30,18 +30,19 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 ## [A link to help you set up wsl/linux for windows](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 
-## [Source control repository](https://github.com/Amyleep97?tab=repositories)
+4. You now will need to download Git: [Download Git Here](https://git-scm.com/downloads) Once downloaded run the installation.
 
-## [Code style guide]()
+- [Step by step to install Git for windows](https://techdirectarchive.com/2020/05/23/how-to-clone-a-repository-and-install-software-from-github-using-the-terminal-for-windows-and-linux/) 
 
-# Installation
+![download git 1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/ae4810a4-3e86-4cb6-b8e9-9b67bf60ce81)
+
  - Type following into the terminal 
- 1. ``` sudo apt-get install git```
+ 5. ``` sudo apt-get install git```
 
  ![sudo step 1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/c36dc706-c999-4285-96b9-02a468779470)
 
 
- 2. ``` sudo apt-get install flex ```
+ 6. ``` sudo apt-get install flex ```
 
 ![sudo step 2](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/b8c63fe0-8cea-43fe-9311-6979c97029f5)
 
@@ -50,30 +51,43 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 ![sudo step 3](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/daf1d6c6-d63b-4b20-9e69-0fcb329bf76e)
 
-3. Once that is installed copy ``` sudo apt-get install bison ```
+7. Once that is installed copy ``` sudo apt-get install bison ```
 
-4. Then ``` sudo apt-get install make ```
+8. Then ``` sudo apt-get install make ```
 
 ![sudo step 4](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/547eec67-6bd5-47e5-a36c-4b564c5b9e8d)
 
 
+## [Source control repository](https://github.com/Amyleep97?tab=repositories)
 
-5. You now will need to download Git: [Download Git Here](https://git-scm.com/downloads) Once downloaded run the installation.
+## [Code style guide](https://www.cs.swarthmore.edu/~adanner/cs21/python_codestyle.php)
 
-- [Step by step to install Git for windows](https://techdirectarchive.com/2020/05/23/how-to-clone-a-repository-and-install-software-from-github-using-the-terminal-for-windows-and-linux/) 
+# Installation
+ ### Option 1:
 
-![download git 1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/ae4810a4-3e86-4cb6-b8e9-9b67bf60ce81)
-
-6. Once you have followed all the Git installation steps you should now download the zipfile from the github repository.
+1. Download the zipfile from the github repository.
 
 ![download zip file from github](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/21f83559-fabe-46c5-b09d-1597d4751bfe)
 
-7. Once saved you should Unzip the file, do this by extracting all. 
+2. Once saved you should Unzip the file, do this by extracting all. 
 
 
 ![main py step](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/577dc2f4-0e58-4fe2-8d25-f52c36c62f9e)
 
-8. Open the file and click on main.py this will open up the terminal to start the application. 
+3. Open the file and click on main.py this will open up the terminal to start the application. 
+
+## Option 2:
+
+- In the terminal git clone: 
+ ``` git clone git@github.com:Amyleep97/AmyPearce_T1A3.git ```
+- Go into the directory
+```cd AmyPearce_T1A3 ```
+
+- type ``` ls ```
+
+- Type ```python3 main.py ```
+
+![cd_into_file_video_game_trivia](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/a5ef8693-5852-4096-8357-caf242e9ab13)
 
 
 # Intro to this application/Rules to play:
@@ -101,18 +115,6 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 - ``` else: print("Incorrect, sorry gamer :( The answer is 1996") ``` This function makes sure that if the answer is incorrect it does not tally a score and will tell you what the correct answer is. 
 
 # Packets
-
-- Pandas
-
-
-
-# Note:
-
-- use of variables and the concept of variable scope
-
-- loops and conditional control structures
-
-- error handling
 
 
 # Implementation plan:
