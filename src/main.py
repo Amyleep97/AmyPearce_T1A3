@@ -1,4 +1,4 @@
-print("Hello! Welcome to Video Game Trivia! ")
+print("Hello! Welcome to Video Game Trivia")
 
 playing = input ("Are you ready to begin? Type 'yes' to start ")
 
@@ -7,6 +7,7 @@ if playing !="yes":
      
 question = input("Question 1: What year was the nintendo 64 released? ")
 score = 0
+
 
 if question == "1996":
     print("Correct! You're a wizard ")
@@ -86,7 +87,7 @@ else:
 
 print("Your score is " + str(score) + " Nice work! ")
 
-playing = input ("GG, Thanks for playing! ")
+print("GG, Thanks for playing! ")
 
 
 
@@ -94,6 +95,7 @@ playing = input ("GG, Thanks for playing! ")
 
 
     
+
 
 
 
