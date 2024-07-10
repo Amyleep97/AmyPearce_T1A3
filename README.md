@@ -139,3 +139,18 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 
 ![brain storming 3](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/c681ceb9-1030-4d8f-b922-c87279254c33)
+
+- These cards are the Goals I had set for this project
+  
+  ![Goal 1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/99d159d3-2819-4409-a546-a2c80ea23f66)
+  
+  ![Goals 2](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/0de47692-d712-499c-82a1-a66d62e92619)
+
+  ![goals 3](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/52cc8e83-47e6-4139-8b0f-72e9c5f4bd89)
+
+  ![goals 4](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/b0a6d527-dede-470a-b607-b5a941ed8a76)
+
+  - These cards are for the Features I was planning on placing in the application
+ 
+    
+
