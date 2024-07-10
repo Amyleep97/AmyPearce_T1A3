@@ -11,8 +11,7 @@
 
 - The first question will apear it should look like this:
 
-![video_game_trivia_question_1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/3b44c158-a76c-4e2d-bc29-27bb39fbf15c)
-
+![updated_terminal_game](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/49e94d61-6282-4ee0-85e0-f89807d1b7e3)
 
 - There are 10 Questions to be answered each one is different.
 
@@ -25,7 +24,7 @@
 
 - At the half way mark the application sends a message saying "You're halfway!" to show your progress.
 
-![questions_trivia](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/29f5f939-d8da-4070-b75c-9a5613d9881a)
+![new_image_of_game_2](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/891fef1e-0b41-467c-b100-87c78db0b548)
 
 - After answering all 10 Questions you will be able to see your score, it will tell you how many questions you got Correct.
 
