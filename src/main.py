@@ -1,4 +1,4 @@
-# Video Game Quiz
+# Video Game Trivia
 print("Hello! Welcome to Video Game Trivia!")
 
 playing = input ("Are you ready to begin? Type 'yes' to start ")
