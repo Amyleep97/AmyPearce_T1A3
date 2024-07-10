@@ -134,10 +134,7 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 - These first three cards are the brain storming part before I could even start my coding/assement
 ![brain storming 1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/ddc7f672-9e50-4dfa-bd7c-8503334b15db)
-
 ![brain stroming 2](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/2d4a7467-a184-4e58-9186-f625b884d3bd)
-
-
 ![brain storming 3](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/c681ceb9-1030-4d8f-b922-c87279254c33)
 
 - These cards are the Goals I had set for this project
