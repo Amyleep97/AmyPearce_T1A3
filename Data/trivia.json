@@ -1,0 +1,59 @@
+[
+
+    {
+
+        "Question 1": "What year was the nintendo 64 released?", 
+        "Answer": "1996"
+
+
+    },
+    {
+        "Question 2": "What is Nintendos most popular game?",
+        "Answer": "Super Mario Bros"
+
+
+    },
+    {
+        "Question 3": "Which console was the first to ever have a built in modem?",
+        "Answer": "Playstation"
+
+
+    },
+    {
+        "Question 4": " Pacman was made by which video game company?",
+        "Answer": "Namco"
+
+    
+    },
+    {   "Question 5": "Which video game is the best selling to this day?",
+        "Answer": "Minecraft"
+
+
+    },
+    {
+        "Question 6": "Steam has a chart of games that are most played, out of the top current 100 which one is number 1?",
+        "Answer": "Counter Strike"
+
+
+    },
+    {
+        "Question 7": "There are a few letters missing from this game title 'N i _ t _ _ d _ g _'  What game is it?", 
+        "Answer": "Nintendogs"
+
+
+    },
+    {    "Question 8": "Who won the game of the year awards in 2020?",
+        "Answer": "The Last of Us Part II" 
+
+
+    },
+    {   "Question 9": "Name 3 DLCS that have recently been released in 2024?",
+        "Answer": "Elden Ring, Destiny 2, Final Fantasy XIV"
+
+
+    },
+     {   "Question 10": "What animal is Pikachu?",
+         "Answer": "Mouse" 
+    
+    }
+]
