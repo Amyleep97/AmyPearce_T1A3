@@ -2,7 +2,7 @@
 
 ## [Source control repository](https://github.com/Amyleep97?tab=repositories)
 
-## Code style guide I used PEP8 [Click here to find out more](https://www.grokkingpython.com/p/pep-8-tutorial-how-to-write-readable)
+## Code style guide used PEP8 [Click here to find out more](https://www.grokkingpython.com/p/pep-8-tutorial-how-to-write-readable)
 
 
 # Intro to this application/Rules to play:
@@ -27,14 +27,14 @@
 
 ![questions_trivia](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/29f5f939-d8da-4070-b75c-9a5613d9881a)
 
-- After answering all 10 Questions will see your score it will tell you how many you got Correct.
+- After answering all 10 Questions you will be able to see your score, it will tell you how many questions you got Correct.
 
 ![end_of_trivia](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/72b43ba7-c3a0-4834-9b9c-8e08389a6f5c)
 
 
 ## Features:
 
-- ``` question = input()``` This function will ask the player a question, the input then produces a line in the terminal. This feature inclues a ```= ```variable it'll will help this ``` () ```string process into a question. What ever is in the brackets will print for example ``` ("Are you ready to begin? Type 'yes' to start ") ``` This sentence will print. 
+- ``` question = input()``` This function will ask the player a question, the input then produces a line in the terminal. This feature inclues a ```= ```variable it'll will help this ``` () ```string process into a question. What ever is in the brackets will print for example ``` ("Are you ready to begin? Type 'yes' to start ") ``` This sentence is the first question of the trivia!
 
 
 - ``` if question == "1996": print("Correct! You're a wizard") ``` This function applys if the person playing gets the answer right, it will print the following sentence in the ```()``` string. Because there are two different variables ```==``` needs to be input. When the player enters ```1996``` the if statement will print. 
@@ -43,9 +43,25 @@
 
 - ``` score += 1 ``` This feature gives the game a scoring system for each question, if it is correct this will add 1 point. The scoring feature will add up every correct question the player got right, at the very end and give an overall result. 
 
-# Error Handling 
+## Control Structures used
 
-- 
+- IF Statements 
+
+```
+if question == "Super Mario Bros": 
+    print("Correct! Nice work!") 
+    score += 1
+```
+- Else Statements
+
+``` 
+else:
+    print("Incorrect, Unlucky! The answer was Super Mario Bros")
+
+```
+
+![flow_chart_showing_control_structure](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/5e2782f1-8181-48cb-9ff1-d9c65bf1e7c6)
+
 
 
 # Implementation plan
@@ -231,4 +247,20 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 8. Then ``` sudo apt-get install make ```
 
 ![sudo step 4](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/547eec67-6bd5-47e5-a36c-4b564c5b9e8d)
+
+## Error handling
+
+- If "remote repository not found': 
+- Double check the URL is right by running:
+```git remote -v```
+- It should be either of these links
+1. ```git@github.com:Amyleep97/AmyPearce_T1A3.git```
+
+2. ``` https://github.com/Amyleep97/AmyPearce_T1A3.git ```
+
+3. Run ``` git remote set-url origin https://github.com/Amyleep97/AmyPearce_T1A3.git``` if it needs to be changed. 
+
+
+
+
 
