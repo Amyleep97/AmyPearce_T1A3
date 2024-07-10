@@ -8,12 +8,12 @@ if playing !="yes":
 question = input("Question 1: What year was the nintendo 64 released? ")
 score = 0
 
-
 if question == "1996":
     print("Correct! You're a wizard ")
     score += 1
 else:
     print("Incorrect, sorry gamer :( The answer is 1996")
+
 
 question = input("Question 2: What is Nintendos most popular game? ")
 
@@ -23,7 +23,8 @@ if question == "Super Mario Bros":
 else:
     print("Incorrect, Unlucky! The answer was Super Mario Bros")
 
-question = input("Question 3: Which console was the first to ever have a built in modem? ")
+
+question = input("Question 3: Which console was the first to ever to have a built in modem? ")
 if question == "Playstation":
     print("Correct!!")
     score += 1
@@ -61,6 +62,7 @@ if question == "Nintendogs":
     score += 1
 else:
     print("Incorrect :( The Correct answer is Nintendogs")
+
 
 question = input("Question 8: Who won the game of the year awards in 2020? ")
 if question == "The Last of Us Part II ":
