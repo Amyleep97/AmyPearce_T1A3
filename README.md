@@ -34,15 +34,18 @@
 
 ## Features:
 
-- ``` question = input``` This function will ask the player a question. Each question should appear one after the other after the answer has been printed.
-
-- ``` if question == "1996": print("Correct! You're a wizard") score += 1 ``` This function applys if the person playing gets the answer correct, it also gives the game a scoring system for each question if it is correct this will add 1 point. The scoring feature will add up at the very end and give an overall result. 
-
-- ``` else: print("Incorrect, sorry gamer :( The answer is 1996") ``` This function makes sure that if the answer is incorrect it does not tally a score and will also tell you what the correct answer is.
+- ``` question = input()``` This function will ask the player a question, the input then produces a line in the terminal. This feature inclues a ```= ```variable it'll will help this ``` () ```string process into a question. What ever is in the brackets will print for example ``` ("Are you ready to begin? Type 'yes' to start ") ``` This sentence will print. 
 
 
+- ``` if question == "1996": print("Correct! You're a wizard") ``` This function applys if the person playing gets the answer right, it will print the following sentence in the ```()``` string. Because there are two different variables ```==``` needs to be input. When the player enters ```1996``` the if statement will print. 
 
-# 
+- ``` else: print("Incorrect, sorry gamer :( The answer is 1996") ``` This function makes sure that if the answer is something anything else it'll print "Incorrect" this will also print the answer because the answer is in the ```()``` string. 
+
+- ``` score += 1 ``` This feature gives the game a scoring system for each question, if it is correct this will add 1 point. The scoring feature will add up every correct question the player got right, at the very end and give an overall result. 
+
+# Error Handling 
+
+- 
 
 
 # Implementation plan
