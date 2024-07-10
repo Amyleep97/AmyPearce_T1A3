@@ -1,4 +1,6 @@
-print("Hello! Welcome to Video Game Trivia")
+import colorama
+from colorama import Fore, Style
+print(Fore.GREEN + "Hello! Welcome to Video Game Trivia")
 
 playing = input ("Are you ready to begin? Type 'yes' to start ")
 
