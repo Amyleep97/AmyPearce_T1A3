@@ -259,6 +259,11 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 3. Run ``` git remote set-url origin https://github.com/Amyleep97/AmyPearce_T1A3.git``` if it needs to be changed. 
 
+- If path already exsists:
+1. You need to ``` cd ``` into ```AmyPearce_T1A3``` 
+2. ```python3 main.py ```
+
+
 
 
 
