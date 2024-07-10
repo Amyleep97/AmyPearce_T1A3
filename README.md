@@ -94,6 +94,11 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 -  You will first be introduced to the game by being welcomed with the sentence " Hello! Welcome to Video Game Trivia!" It will then ask you "Are you ready to begin? Type 'yes' to start " You must type ``` "yes" ```for the questions to begin.
 
+- The first question will apear it should look like this:
+
+![video_game_trivia_question_1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/3b44c158-a76c-4e2d-bc29-27bb39fbf15c)
+
+
 - There are 10 Questions to be answered each one is different.
 
 - You must press the enter key after every answer in order to get a result. Always use Capitals at the start of each answer. (example: ``` counterstrike ```will error ```Counterstrike```will work.)
@@ -102,9 +107,15 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
 
 - The game will tell you what the answer is if you didn't get it right. 
 
+
 - At the half way mark the application sends a message saying "You're halfway!" to show your progress.
 
-- After answering all 10 Questions you will see your score it will tell you how many you got Correct.
+![questions_trivia](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/29f5f939-d8da-4070-b75c-9a5613d9881a)
+
+- After answering all 10 Questions will see your score it will tell you how many you got Correct.
+
+![end_of_trivia](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/72b43ba7-c3a0-4834-9b9c-8e08389a6f5c)
+
 
 ## Features:
 
