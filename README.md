@@ -151,5 +151,17 @@ Mac OS X 10.11 or higher, 64-bit, Linux: RHEL 6/7, 64-bit, Ubuntu, x86 64-bit CP
   ##  These cards are for the Features I was planning on placing in the application
  
  
-    
+![Features 21](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/3bfab92c-9f41-4957-9d3c-66e238348c01)
+
+![features 3](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/9cd2cce8-6f38-40a7-8b66-c2a7753780d8)
+
+![Features 2](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/2806064f-7e4a-49b1-a147-2bc46042a467)
+
+## These cards are the end result and all the testing I did for the application
+
+![test 1](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/cf4d3f2e-df3d-42eb-a61e-5df4d5c29cd2)
+
+![test 3](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/9e805934-6f5e-4259-b0fb-a858cb9912a0)
+
+![test 2](https://github.com/Amyleep97/AmyPearce_T1A3/assets/168613540/de591936-a077-4b0e-9c72-62aefb301129)
 
