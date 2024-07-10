@@ -1,4 +1,3 @@
-# Video Game Trivia
 print("Hello! Welcome to Video Game Trivia! ")
 
 playing = input ("Are you ready to begin? Type 'yes' to start ")
@@ -70,7 +69,7 @@ else:
     print("Incorrect :( The correct answer was The Last of Us Part II ")
 
 
-question = input("Question 9: Name 3 DLCS that have recently been released in 2024: ")
+question = input("Question 9: Name 3 DLCS that have recently been released in 2024? ")
 if question == "Elden Ring, Destiny 2, Final Fantasy XIV ":
     print("Correct!!! Finish Him!")
     score += 1
